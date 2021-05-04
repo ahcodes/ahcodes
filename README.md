@@ -11,15 +11,7 @@
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahcodes&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
-<p align="center">
-  <code><img title="HTML5" height="25" src="./img/html5.svg"></code>
-  <code><img title="CSS" height="25" src="./img/css.svg"></code>
-  <code><img title="Bootstrap" height="25" src="./img/bootstrap-5.png"></code>
-  <code><img title="SASS" height="25" src="./img/sass.svg"></code>
-  <code><img title="JavaScript" height="25" src="./img/javascript.svg"></code>
-  <code><img title="Git" height="25" src="./img/git-original.svg"></code>
-  <code><img title="VSCode" height="25" src="./img/vscode.png"></code>
-</p>
+
 <p align=center>
   <img height="175" align=center src="https://github-readme-stats.vercel.app/api?username=ahcodes&show_icons=true&theme=tokyonight" />
 </p>
@@ -30,6 +22,16 @@
 **ahcodes/ahcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+<p align="center">
+  <code><img title="HTML5" height="25" src="./img/html5.svg"></code>
+  <code><img title="CSS" height="25" src="./img/css.svg"></code>
+  <code><img title="Bootstrap" height="25" src="./img/bootstrap-5.png"></code>
+  <code><img title="SASS" height="25" src="./img/sass.svg"></code>
+  <code><img title="JavaScript" height="25" src="./img/javascript.svg"></code>
+  <code><img title="Git" height="25" src="./img/git-original.svg"></code>
+  <code><img title="VSCode" height="25" src="./img/vscode.png"></code>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahcodes&layout=compact)](https://github.com/ahodes/github-readme-stats)
 [![ahcodes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahcodes)](https://github.com/ahcodes/github-readme-stats)
