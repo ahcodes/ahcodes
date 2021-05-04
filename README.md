@@ -6,7 +6,6 @@
 - 🤔 I’m also on the lookout for good FOSS projects to contribute to, so if you run across something interesting, let me know!
 - 💬 Ask me about anything related to my coding skills.
 - 📫 How to reach me: Element (Riot.im): ah_11 
-- ⚡ Fun fact: Despite being theorized about for decades, black holes were only photographed a few years ago.
 
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahcodes&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
