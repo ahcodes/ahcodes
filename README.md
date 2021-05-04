@@ -1,11 +1,23 @@
-### Hi there, I go by "ahcodes" on GitHub.  👋 
+## Hi there, I go by "ahcodes" on GitHub.  👋 
 
+I'm a newbie coder who is interested in a lot of things related to programming and STEM and who's got a lot of fingers in a lot of different pies. I would say that my end-goal is to be a machine learning/AI specialist but at the moment -- this early in my career, I'm content with being a generalist to get the big picture of all things coding. A jack-of-all-trades, if you will.
+
+### A bit about me
 - 🔭 I’m currently working on my project portfolio to showcase my coding skills to potential employers and in the process of revamping my GitHub profile.
+
 - 🌱 I’m also learning related and unrelated tech skills like SQL, Python, React and a few others.
+
 - 👯 I’m looking to collaborate on real-world problems and hope to make a lasting impact in the STEM community.
+
 - 🤔 I’m also on the lookout for good FOSS projects to contribute to, so if you run across something interesting, let me know!
+
 - 💬 Ask me about anything related to my coding skills.
+
 - 📫 How to reach me: Element (Riot.im): ah_11 
+
+- Fun fact: I was going for a play on the word "barcode" when I came up with my GitHub username but since "ahcode" was taken/unavailable, I had to settle with "ahcodes". Oh, well.
+
+
 
 <div>
   <p align = "center">
