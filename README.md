@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my project portfolio to showcase my coding skills to potential employers.
-- 🌱 I’m also learning a plethora of related and unrelated tech skills like SQL, Python, React and a few others.
+- 🔭 I’m currently working on my project portfolio to showcase my coding skills to potential employers and in the process of revamping my GitHub profile.
+- 🌱 I’m also learning related and unrelated tech skills like SQL, Python, React and a few others.
 - 👯 I’m looking to collaborate on real-world problems and hope to make a lasting impact in the STEM community.
 - 🤔 I’m also on the lookout for good FOSS projects to contribute to, so if you run across something interesting, let me know!
 - 💬 Ask me about anything related to my coding skills.
