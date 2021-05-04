@@ -7,14 +7,17 @@
 - 💬 Ask me about anything related to my coding skills.
 - 📫 How to reach me: Element (Riot.im): ah_11 
 
-<p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahcodes&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p>
+<div>
+  <p align = "center">
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahcodes&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+  </p>
+</div>
 
-
-<p align=center>
-  <img height="175" align=center src="https://github-readme-stats.vercel.app/api?username=ahcodes&show_icons=true&theme=tokyonight" />
-</p>
+<div>
+  <p align=center>
+    <img height="175"  src="https://github-readme-stats.vercel.app/api?username=ahcodes&show_icons=true&theme=tokyonight" />
+  </p>
+</div>
 
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{ahcodes}/count.svg)
