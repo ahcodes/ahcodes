@@ -26,7 +26,7 @@
 <p align=center>
 <img src="https://profile-counter.glitch.me/{ahcodes}/count.svg" />
 </p>
-![VisitorCount](https://profile-counter.glitch.me/{ahcodes}/count.svg)
+
 <!--
 **ahcodes/ahcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
