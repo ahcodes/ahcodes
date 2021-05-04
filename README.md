@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I go by "ahcodes" on GitHub.  👋 
 
 - 🔭 I’m currently working on my project portfolio to showcase my coding skills to potential employers and in the process of revamping my GitHub profile.
 - 🌱 I’m also learning related and unrelated tech skills like SQL, Python, React and a few others.
