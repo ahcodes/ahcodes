@@ -5,7 +5,7 @@ I'm a newbie coder who is interested in a lot of things related to programming a
 ### A bit about me
 - 🔭 I’m currently working on my project portfolio to showcase my coding skills to potential employers and in the process of revamping my GitHub profile.
 
-- 🌱 I’m also learning related and unrelated tech skills like SQL, Python, React and a few others.
+- 🌱 I’m also learning related and unrelated tech skills like SQL, Python and a few others.
 
 - 👯 I’m looking to collaborate on real-world problems and hope to make a lasting impact in the STEM community.
 
