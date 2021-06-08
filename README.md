@@ -17,7 +17,7 @@ I'm a newbie coder who is interested in a lot of things related to programming a
 
 - 📫 How to reach me: Element (Riot.im): ah_11 
 
-- Fun fact: I was going for a silly play on the word "barcode" when I came up with my GitHub username but since "ahcode" was taken/unavailable, I had to settle with "ahcodes". Oh, well.
+- Fun fact: I was going for a silly play on the word "barcode" when I came up with my GitHub username but since "ahcode" was taken/unavailable, I had to settle with "ahcodes". Oh well.
 
 
 
