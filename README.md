@@ -11,7 +11,7 @@ I'm a newbie coder who is interested in a lot of things related to programming a
 
 - 👯 I’m looking to collaborate on real-world problems and hope to make a lasting impact in the STEM community.
 
-- 🤔 I’m also on the lookout for good FOSS projects to contribute to, so if you run across something interesting, let me know.
+- 🤔 I’m also **on the lookout for good FOSS projects to contribute to**, so if you run across something interesting, let me know.
 
 - 💬 Ask me about anything related to my coding skills.
 
