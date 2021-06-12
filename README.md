@@ -1,6 +1,6 @@
 ## Hi there, I go by "ahcodes" on GitHub.  👋 
 
-Don't mind the creepy stare of my avatar on the left ;)
+This page looks 100% better **on dark mode**, try it! Oh, and don't mind the creepy stare of my avatar on the left ;)
 
 I'm a newbie coder who is interested in a lot of things related to programming and STEM and who's got a lot of fingers in a lot of different pies. I would say that my end-goal is to be a machine learning/AI specialist but at the moment -- this early in my career, I'm content with being a generalist to get the big picture of all things coding. A jack-of-all-trades, if you will.
 
