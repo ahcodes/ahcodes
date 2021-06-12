@@ -33,6 +33,20 @@ I'm a newbie coder who is interested in a lot of things related to programming a
   </p>
 </div>
 
+<div>
+  <p align=center>
+    <img height="175"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahcodes&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages" />
+  </p>
+</div>
+
+<div>
+  <p align=center>
+    <img height="350"  src="https://lostgirljourney-on-github.herokuapp.com/graph?username=ahcodes&theme=dracula&bg_color=000000&hide_border=true" alt="GitHub Activity" />
+  </p>
+</div>
+
+
+
 
 <p align=center>  
   Views Count
