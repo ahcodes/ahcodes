@@ -1,11 +1,11 @@
 ## Hi there, I go by "ahcodes" on GitHub.  👋 
 
-This page looks 100% better **on dark mode**, try it! Oh, and don't mind the creepy stare of my avatar on the left ;)
+This page was designed to look good **on dark mode**, try it! Oh, and don't mind the creepy stare of my avatar on the left ;)
 
 I'm a newbie coder who is interested in a lot of things related to programming and STEM and who's got a lot of fingers in a lot of different pies. I would say that my end-goal is to be a machine learning/AI specialist but at the moment -- this early in my career, I'm content with being a generalist to get the big picture of all things coding. A jack-of-all-trades, if you will.
 
 ### A bit about me
-- 🔭 I’m currently working on my project portfolio to showcase my coding skills to potential employers and in the process of revamping my GitHub profile.
+- 🔭 I’m currently working on my [project portfolio](https://ahcodes.github.io) to showcase my coding skills to potential employers and in the process of revamping my GitHub profile.
 
 - 🌱 I’m also learning related and unrelated tech skills like SQL, Python and a few others. 
 
@@ -13,7 +13,7 @@ I'm a newbie coder who is interested in a lot of things related to programming a
 
 - 🤔 I’m also **on the lookout for good FOSS projects to contribute to**, so if you run across something interesting, let me know.
 
-- 💬 Ask me about anything related to my coding skills.
+- 💬 Ask me about anything related to my coding skills. I can also direct you to free, reputed FOSS resources online to learn in-demand tech skills these days!
 
 - 📫 How to reach me: Element (Riot.im): ah_11 
 
