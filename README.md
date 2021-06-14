@@ -27,12 +27,15 @@ I'm a newbie coder who is interested in a lot of things related to programming a
   </p>
 </div>
 
-
-<a href="https://github.com/ahcodes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahcodes&theme=tokyonight&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahcodes&theme=great-gatsby&layout=compact" alt="Most used Languages"/>
-</a>
-
+<div>
+  <p align="center"
+  <a href="https://github.com/ahcodes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahcodes&theme=tokyonight&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahcodes&theme=great-gatsby&layout=compact" alt="Most used Languages"/>
+  </a>
+  </p>
+</div>
+  
 <div>
   <p align=center>
     <img height="350"  src="https://lostgirljourney-on-github.herokuapp.com/graph?username=ahcodes&theme=dracula&bg_color=000000&hide_border=true" alt="GitHub Activity" />
